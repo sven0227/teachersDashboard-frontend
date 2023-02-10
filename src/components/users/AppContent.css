@@ -1,0 +1,14 @@
+.page-container {
+    padding-top: 109px;
+    min-height: calc(100vh - 253px);
+    height: 100%;
+}
+.logged-page-container {
+    padding-left: 320px;
+    padding-top: 80px;
+}
+@media (max-width: 1199px) {
+    .logged-page-container {
+        padding-left: 0px;
+    }
+}
